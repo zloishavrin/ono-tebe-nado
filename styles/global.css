@@ -40,3 +40,7 @@ img {
 address {
   font-style: normal;
 }
+
+button {
+  font-family: inherit;
+}
